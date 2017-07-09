@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/timmyjose/java-property-file-parser.svg?branch=master)](https://travis-ci.org/timmyjose/java-property-file-parser)
+
 This is a small parser for Java `.properties` files. The main idea of this project is to learn the basics of Parser Combinators, using the Rust `nom` crate as the driving tool. As such, this project does not aim to be 100% compliant with Java `.properties` file specifications. 
 
 The following is the tentative grammar followed by this tool (shown as a pseudo-ABNF grammar):
