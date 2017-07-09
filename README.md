@@ -33,7 +33,7 @@ Some sample files are provided in the `samples` directory for testing our the to
 
 ```
     $ cargo build --release
-``
+```
 
 ## Demo
 
