@@ -1,0 +1,11 @@
+language: rust
+rust:
+    - stable
+    - nightly
+    - beta
+matrix:
+    allow_failures:
+        - rust: nightly
+sudo: false
+dist: trusty
+

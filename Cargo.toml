@@ -1,0 +1,9 @@
+[package]
+name = "java-prop-parser"
+version = "0.1.0"
+authors = ["Timmy Jose <zoltan.jose@gmail.com>"]
+
+[dependencies]
+
+nom = "*"
+
